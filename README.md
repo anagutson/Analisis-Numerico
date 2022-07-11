@@ -63,7 +63,7 @@ $$d_j = \frac{(c_{j+1} - c_j)}{3(x_{j+1}-x_j)}$$
 La segunda forma es una implementación realizada a partir de lo explicado en la bibliografía de la materia.
 
 
-## Bibliografia
+## Bibliografía
 
 $\quad \bullet \quad$ Análisis Numérico, 10a edición - Burden - Faires.
 

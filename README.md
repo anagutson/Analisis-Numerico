@@ -26,7 +26,7 @@ $\quad \bullet \quad$ Valor de la derivada primera de la función en los extremo
 
 Luego, se plantean $6$ condiciones que deben cumplirse para la construcción del polinomio interpolador.
 
-Cada Spline estará conformado por polinomios cúbicos $S_j(x)$, definidos en el subintervalo $[x_j,&x_{j+1}]$ para cada $j = 0, 1, \dots, n-1 $, de la forma
+Cada Spline estará conformado por polinomios cúbicos $S_j(x)$, definidos en el subintervalo $[x_j, x_{j+1}]$ para cada $j = 0, 1, \dots, n-1$, de la forma
 $S_j(x) = a_j + b_j (x-x_j) + c_j (x-x_j)^2 + d_j (x-x_j)^3$.
 
 

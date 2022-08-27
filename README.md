@@ -1,4 +1,4 @@
-# Analisis Numerico 75.12
+# Analisis Numerico 75.12 - se rompiooo el read me, lean el codigo jaja
 
 # Interpolación por Spline
 
